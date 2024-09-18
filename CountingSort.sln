@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountingSort", "CountingSort\CountingSort.vcxproj", "{FE6CDE8E-3305-4EF0-91C4-93D6483F0818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6CDE8E-3305-4EF0-91C4-93D6483F0818}.Debug|x64.ActiveCfg = Debug|x64
+		{FE6CDE8E-3305-4EF0-91C4-93D6483F0818}.Debug|x64.Build.0 = Debug|x64
+		{FE6CDE8E-3305-4EF0-91C4-93D6483F0818}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE6CDE8E-3305-4EF0-91C4-93D6483F0818}.Debug|x86.Build.0 = Debug|Win32
+		{FE6CDE8E-3305-4EF0-91C4-93D6483F0818}.Release|x64.ActiveCfg = Release|x64
+		{FE6CDE8E-3305-4EF0-91C4-93D6483F0818}.Release|x64.Build.0 = Release|x64
+		{FE6CDE8E-3305-4EF0-91C4-93D6483F0818}.Release|x86.ActiveCfg = Release|Win32
+		{FE6CDE8E-3305-4EF0-91C4-93D6483F0818}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5739F979-3F5D-4853-A7D3-28287BD309F8}
+	EndGlobalSection
+EndGlobal
